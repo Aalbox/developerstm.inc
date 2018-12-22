@@ -1,0 +1,1 @@
+# developerstm.inc
